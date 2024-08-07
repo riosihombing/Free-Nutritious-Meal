@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~     Tanggal Pengerjaan : 6/8/2024
+  ~     Nim : 10121050
+  ~     Nama : Rio Christian Cesar Sihombing
+  ~     email :riosihombing047@gmail.com
+  ~     Copyright © 2024 Rio Sihombing. All rights reserved.
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+
+            <solid android:color="@color/pale_pink"/>
+
+            <stroke
+                android:color="@color/pale_pink"
+                android:width="3dp"/>
+            <corners android:radius="20dp"/>
+
+        </shape>
+    </item>
+</selector>

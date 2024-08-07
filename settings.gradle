@@ -1,0 +1,10 @@
+/*
+ *     Tanggal Pengerjaan : 6/8/2024
+ *     Nim : 10121050
+ *     Nama : Rio Christian Cesar Sihombing
+ *     email :riosihombing047@gmail.com
+ *     Copyright © 2024 Rio Sihombing. All rights reserved.
+ */
+
+include ':app'
+rootProject.name = "Free Nutritious Meals"

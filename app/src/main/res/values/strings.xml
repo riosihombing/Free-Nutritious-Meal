@@ -1,0 +1,87 @@
+<!--
+  ~     Tanggal Pengerjaan : 6/8/2024
+  ~     Nim : 10121050
+  ~     Nama : Rio Christian Cesar Sihombing
+  ~     email :riosihombing047@gmail.com
+  ~     Copyright © 2024 Rio Sihombing. All rights reserved.
+  -->
+
+<resources>
+    <string name="app_name">Free Nutritious Meal</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+
+    <string name="google_maps_key" >AIzaSyDrQzvrnm4WkQ-P0PSvlwDq_pfbmbfMgtw</string>
+
+    <string name="about">about</string>
+    <string name="about_title">About</string>
+    <string name="dummy_text">Versi Free Nutritious Meals 1.0</string>
+    <string name="okay">Okay</string>
+    <string name="todo">TODO</string>
+    <string name="penasaran">Curious</string>
+    <string name="welcome">Penuhi Kebutuhan Nutrisi Anda</string>
+    <string name="welcome1">Selamat Datang di Free Nutritious Meals!</string>
+
+    <string name="rencana">Rencanakan Kunjungan Anda</string>
+    <string name="rasa_santai">Bersantai dalam menjalankan\nsegala hal</string>
+
+    <string name="cari">Temukan Lokasi Terdekat</string>
+    <string name="rasa_sabar">Sabar dalam menghadapi\nsegala hal</string>
+    <string name="description">Description</string>
+    <string name="daily">Daily</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="friendlist">Friendlist</string>
+    <string name="gallery">Gallery</string>
+    <string name="photo">Photo</string>
+    <string name="home">Home</string>
+    <string name="rio">Rio</string>
+    <string name="nim">NIM</string>
+    <string name="_10121050">: 10121050</string>
+    <string name="nama">Nama</string>
+    <string name="rio_s">: Rio Christian Cesar Sihombing</string>
+    <string name="kelas">Kelas</string>
+    <string name="if_2">: IF-2</string>
+    <string name="alamat">Alamat</string>
+    <string name="jayapura">: BTN KAMKEY BLOK C. NO.35 JAYAPURA</string>
+    <string name="agama">Agama</string>
+    <string name="kristen">: Kristen</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">: Laki-Laki</string>
+    <string name="interest2">Interest</string>
+    <string name="hobi">Hobi</string>
+    <string name="basket">: Basket</string>
+    <string name="game_kesukaan">Game kesukaan</string>
+    <string name="pubg">: PUBG</string>
+    <string name="makanan_kesukaan">Makanan Kesukaan</string>
+    <string name="pork">: Pork</string>
+    <string name="mobile_apps">: Mobile Apps</string>
+    <string name="cita_cita">Cita-Cita</string>
+    <string name="pro_player">: Pro Player Game</string>
+    <string name="media">Media</string>
+    <string name="music_favorite">Music Favorite</string>
+    <string name="lokasi">Maps</string>
+    <string name="lokasi1">Lokasi Pembagian Makan Bergizi Gratis</string>
+    <string name="contact">Contact</string>
+    <string name="find_me">Find Me</string>
+    <string name="about2">About</string>
+    <string name="about_version_application">about version application</string>
+    <string name="example">Example</string>
+    <string name="this_is_the_title">This is the title</string>
+    <string name="ig">Instagram</string>
+    <string name="social_media">Social Media</string>
+    <string name="example_application">Example application</string>
+    <string name="desc">Aplikasi ini dibuat untuk mengetahui lokasi dan waktu pembagian makan bergizi gratis</string>
+
+    <string name="jadwal">Jadwal Kegiatan</string>
+    <string name="hari">Setiap hari Jumat</string>
+    <string name="mulai">Mulai 09.00 AM - Selesai</string>
+    <string name="tempat">Tempat Makanan Gratis</string>
+    <string name="nama_tempat">Toko You Bandung</string>
+    <string name="lokasi_tempat">Jl. Hasanudin No.12, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132</string>
+    <string name="menu">Menu</string>
+    <string name="isi_menu">Irisan ayam ayam bakar, bakmi, capcay</string>
+    <string name="deskripsi">Untuk makan siang gratis bagi umum, pihaknya kini paling tidak menyiapkan 200 Kg beras, bakmi sebanyak 150-180 Kg, dan daging ayam 200 Kg.</string>
+</resources>

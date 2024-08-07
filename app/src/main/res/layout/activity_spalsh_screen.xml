@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~     Tanggal Pengerjaan : 6/8/2024
+  ~     Nim : 10121050
+  ~     Nama : Rio Christian Cesar Sihombing
+  ~     email :riosihombing047@gmail.com
+  ~     Copyright © 2024 Rio Sihombing. All rights reserved.
+  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/text_myself"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo"
+        android:layout_centerHorizontal="true"
+        android:text="Free Nutritious Meals"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "974822232183",
+    "firebase_url": "https://myapplication-3b5da-default-rtdb.firebaseio.com",
+    "project_id": "myapplication-3b5da",
+    "storage_bucket": "myapplication-3b5da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974822232183:android:0a6f73cf5bbacab014f672",
+        "android_client_info": {
+          "package_name": "com.rio.meals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmvNAq83Y7Wgo0ncrhe9QOf2lafJwkeyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<!--
+  ~     Tanggal Pengerjaan : 6/8/2024
+  ~     Nim : 10121050
+  ~     Nama : Rio Christian Cesar Sihombing
+  ~     email :riosihombing047@gmail.com
+  ~     Copyright © 2024 Rio Sihombing. All rights reserved.
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MySelf" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/pale_pink</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AlertDialogTheme" parent="Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+    </style>
+</resources>
